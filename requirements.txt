@@ -1,0 +1,6 @@
+numpy
+gymnasium
+matplotlib
+seaborn
+tensorboard
+memory-gym

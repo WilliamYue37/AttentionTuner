@@ -1,0 +1,11 @@
+name: AttentionTuner
+channels:
+- pytorch
+- nvidia
+- defaults
+dependencies:
+- python=3.11
+- pip
+- pytorch
+- torchvision
+- cudatoolkit
