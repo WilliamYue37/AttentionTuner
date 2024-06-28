@@ -5,7 +5,7 @@
 Run the following commands:
 ```shell
 conda env create -f environment.yml
-conda activate t-dgr
+conda activate tuner
 pip install -r requirements.txt
 ```
 
